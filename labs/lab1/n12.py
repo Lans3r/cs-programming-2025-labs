@@ -1,0 +1,5 @@
+word = input()
+print(word[:4])
+print(word[-2:])
+print(word[4:8])
+print(word[::-1])
