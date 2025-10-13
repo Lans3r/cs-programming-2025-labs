@@ -1,0 +1,5 @@
+data = input("Введите два числа через пробел: ")
+numbers = data.split()
+a = int(numbers[0])
+b = int(numbers[1])
+print(f"Сумма равна: {a + b}")
